@@ -1,2 +1,3 @@
 Adding some text here
 testing more git stuff now
+testing again to check for commit message editor
